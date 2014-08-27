@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Screw you guys! I'm going home...
+title: Screw you guys Im going home
 ---
 
 Caaartyffzf
